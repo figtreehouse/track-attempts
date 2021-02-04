@@ -1,5 +1,5 @@
 {
-    "name": "machaven/track-attempts",
+    "name": "figtreehouse/track-attempts",
     "description": "Track and limit any auth, OTP, or any other type of action.",
     "keywords": ["track", "otp", "auth", "limit", "redis", "cache", "laravel"],
     "license": "MIT",

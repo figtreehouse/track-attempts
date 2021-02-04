@@ -11,7 +11,7 @@
     ],
     "type": "package",
     "require": {
-	"php": ">=5.4 || ^8.0"",
+	"php": ">=5.4 || ^8.0",
         "vlucas/phpdotenv": "^3.0|^5.3",
         "predis/predis": "~1.0"
     },
